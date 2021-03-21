@@ -1,0 +1,23 @@
+body {
+    font-family: "Helvetica Neue", "arial";
+    font-size: 18px;
+
+}
+
+h1,
+h2 {
+    color: rgba(39, 109, 173, 0.808);
+}
+h1 {
+    font-size:40px ;
+}
+h2 {
+    font-size:25px ;
+}
+
+.author {
+    font-size: 25px;
+}
+.main-text {
+    text-align: Justify;
+}
